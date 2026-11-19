@@ -1,0 +1,18 @@
+{
+  "name": "can-phong-bi-an",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1",
+    "pg": "^8.16.3",
+    "multer": "^2.0.2",
+    "xlsx": "^0.18.5",
+    "mammoth": "^1.10.0"
+  }
+}
